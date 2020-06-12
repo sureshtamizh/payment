@@ -1,0 +1,16 @@
+{
+  "name": "paymentgateway",
+  "version": "1.0.0",
+  "description": "This is PaymentGateway using cordova plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "payment",
+    "upi",
+    "ionic"
+  ],
+  "author": "Suresh Tamil",
+  "license": "ISC"
+}
